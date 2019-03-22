@@ -1,0 +1,28 @@
+.formstyle{
+    background: rgb(9, 205, 231);
+    width: 165px;
+    margin: auto;
+    padding: 5px;
+    border: 2px solid black;
+}
+
+.in{
+    width: 158px;
+    border: 2px solid black;
+}
+
+#cal{
+    width: 163px;
+    background-color: rgb(44, 214, 44);
+    color: white;
+}
+
+#cc{
+    background-color: red;
+    color: white;
+}
+
+input{
+    width: 52px;
+    border-radius: 7px;
+}
